@@ -2,6 +2,12 @@
 
 A content-based Movie Recommender System built using Python, Pandas, Scikit-Learn, and Streamlit.
 
+🚀 Live Demo
+
+Live Application: https://movie-recommender-system-production-633b.up.railway.app
+
+Try the deployed application directly from the link above.
+
 ## Features
 
 - Recommend movies similar to a selected movie
